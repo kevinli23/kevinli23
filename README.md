@@ -4,9 +4,11 @@
 
 I'm currently a senior [@UWaterloo](https://uwaterloo.ca/) studying Computer Science set to graduate in Spring 2023.
 
-I'm currently looking for a Fall 2022 Internship as well as Full Time opportunities for Spring 2023.
+I'm currently seeking for Full Time opportunities for Spring 2023.
 
 # 🖥️ Experience
+Software Engineer Intern [@Bloomberg](https://www.bloomberg.com/] (2022)
+
 Back-end Engineer Intern [@Splunk](https://www.splunk.com/) (2022)
 
 Software Engineer Intern [@1Password](https://1password.com/) (2021 - 2022)
