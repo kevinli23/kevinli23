@@ -7,7 +7,7 @@ I'm currently a senior [@UWaterloo](https://uwaterloo.ca/) studying Computer Sci
 I'm currently seeking Full Time opportunities for Spring 2023.
 
 # 🖥️ Experience
-Software Engineer Intern [@Bloomberg](https://www.bloomberg.com/] (2022)
+Software Engineer Intern [@Bloomberg](https://www.bloomberg.com/) (2022)
 
 Back-end Engineer Intern [@Splunk](https://www.splunk.com/) (2022)
 
