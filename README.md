@@ -1,5 +1,3 @@
-# 👋, I'm Kevin Li 
-
 # 🖥️ Experience
 Software Engineer [@Roblox](https://www.roblox.com/) (2023 - Present)
 
