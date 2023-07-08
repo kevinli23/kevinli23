@@ -1,5 +1,5 @@
 # 🖥️ Experience
-Software Engineer [@Roblox](https://www.roblox.com/) (2023 - Present)
+Software Engineer [@Roblox](https://corp.roblox.com/) (2023 - Present)
 
 Software Engineer Intern [@Bloomberg](https://www.bloomberg.com/) (2022)
 
